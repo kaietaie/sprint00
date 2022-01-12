@@ -1,0 +1,3 @@
+754062f move README file to root directory
+e8dd9fd make directory for each task, make a new file 'push_me.txt'
+03a085f first commit
