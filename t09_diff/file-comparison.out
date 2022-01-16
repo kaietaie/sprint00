@@ -1,0 +1,6 @@
+1c1,3
+< The -s flag to cmp will make the utility "silent". The exit status of cmp will be zero when comparing two files that are identical. This is used in the code above to print out a message about whether the two files are identical or not.
+---
+>  This is used in the code above to print out a message about whether the two files are identical or not.
+> 
+> If your two input files contains list of pathnames of files that you wish to compare, then use a double loop like so:
